@@ -1,5 +1,5 @@
-base v0.1
-=========
+v0.1
+====
 
 ![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0.svg)
 
