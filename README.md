@@ -10,7 +10,7 @@ Attribution
 -----------
 
 Inspired and made possible through the brilliant services of [shields.io](http://shields.io/)
-and the wonderful people behind it.
+and [the wonderful people behind it](http://shields.io/#contributors).
 
 
 Legal 
