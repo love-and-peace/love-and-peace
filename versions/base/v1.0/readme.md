@@ -2,6 +2,7 @@ v0.1
 ====
 
 ![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0.svg)
+![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0-small.svg)
 
 Link to clause
 --------------
@@ -15,6 +16,17 @@ Link to clause
    ```
    [![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0.svg)](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/de.md)
    ```
+
+ - ### en-small
+   ```
+   [![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0-small.svg)](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/en.md)
+   ```
+
+ - ### de-small
+   ```
+   [![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0-small.svg)](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/de.md)
+   ```
+
 
 
 Only image
@@ -33,3 +45,10 @@ For shorter url :)
 ```
 http://love-and-peace.github.io/love-and-peace/badges/base/v1.0.svg
 ```
+
+### [gh-pages](https://github.com/love-and-peace/love-and-peace/tree/gh-pages) cached small
+
+```
+http://love-and-peace.github.io/love-and-peace/badges/base/v1.0-small.svg
+```
+
