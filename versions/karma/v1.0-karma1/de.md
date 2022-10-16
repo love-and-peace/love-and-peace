@@ -14,5 +14,5 @@ daraus zu ziehen.
 Das Ignorieren dieser Klausel ist zwar rein rechtlich unbedenklich, 
 aber sehr schlecht für’s Karma ;)  
 Falls du deine Einstellung änderst oder darüber nachdenkst, sprich
-den Urheber des Produkts gerne an, er wird sich freuen dich zu 
+die Urheber des Produkts gerne an, sie werden sich freuen dich zu 
 unterstützen.
