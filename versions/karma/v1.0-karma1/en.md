@@ -10,5 +10,5 @@ If you do not share this thought, any use is hereby prohibited.
 
 You are legally free to ignore this clause, but that's really bad for
 your karma ;)  
-If you (want to) change your mind, feel free to contact the author of
-this product, he'll be glad to support.
+If you (want to) change your mind, feel free to contact the creators of
+this product, they'll be glad to support.
